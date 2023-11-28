@@ -3,7 +3,6 @@
 </div>
 <div align="center">
 <h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I want to be a back-end developer 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=radical)
 
 ## 🛠️ Tech
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
