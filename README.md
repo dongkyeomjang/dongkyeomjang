@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF4500&height=200&section=header&text=dongkyeomjang&fontSize=90" />
 </div>
 <div align="center">
-<h1 style="text-align:center"> Hi I'm dongkyeomjang 🙋‍♂️</h1> I want to be a back-end developer 
+<h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I want to be a back-end developer 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=radical)
 
 ## 🛠️ Tech
