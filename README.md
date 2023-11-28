@@ -1,4 +1,7 @@
-### Hi there 👋
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF4500&height=200&section=header&text=dongkyeomjang&fontSize=90" />
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=radical)
 <!--
 **dongkyeomjang/dongkyeomjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
