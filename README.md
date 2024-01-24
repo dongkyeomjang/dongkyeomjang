@@ -18,5 +18,6 @@
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkyeomjang&layout=compact&theme=dracula)
 
