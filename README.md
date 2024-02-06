@@ -8,7 +8,8 @@
 동국대학교 컴퓨터공학과 재학중(2020.03.02 ~)<br>
 GDSC DGU Server/Cloud General 멤버(2023.09.15 ~)<br>
 카카오클라우드 스쿨 4기 교육생(2023.12.06 ~)<br>
-GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)
+GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
+구름톤 유니브 2기 (2024.02.06 ~)
 
 ## 🛠️ Tech
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
