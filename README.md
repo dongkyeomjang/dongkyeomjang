@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF4500&height=200&section=header&text=dongkyeomjang&fontSize=90" />
 </div>
 <div align="center">
-<h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I want to be a back-end developer
+<h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I sharpen my skills every day
 
 ## 🖊️ history
 동국대학교 컴퓨터공학과 재학중(2020.03.02 ~)<br>
