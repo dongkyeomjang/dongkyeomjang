@@ -30,6 +30,9 @@ GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
 <img src="https://img.shields.io/badge/-Amazon EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/googlecloudstorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
 
 
 ##
