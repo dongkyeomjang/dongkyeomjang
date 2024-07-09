@@ -43,3 +43,5 @@ GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
 ## 🏆 Award
 <div align="center">
 2024.01.13 GDSC 눈꽃톤 대상
+
+# Certificates
