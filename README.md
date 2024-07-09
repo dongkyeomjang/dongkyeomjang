@@ -60,7 +60,7 @@ GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
     </tr>
     <tr>
       <td align="center"><b sytle="font-size:1.2em;">구름톤 유니브2기<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/35a44701-f94b-4b97-91bb-fe433c677687" alt="구름톤 유니브 2기 수료증" width="500"></td>
-      <td align="center"><b sytle="font-size:1.2em;">카카오클라우드스쿨 4기<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/b342d04b-8e35-414c-ac57-279664d66a8e" alt="카카오클라우드 스쿨 4기 수료증" width="500" height="500"></td>
+      <td align="center"><b sytle="font-size:1.2em;">카카오클라우드스쿨 4기<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/bbbdad6d-970d-4c9a-bd69-79ad910d7ce7" alt="카카오클라우드 스쿨 4기 수료증" width="500" height="500"></td>
     </tr>
   </table>
 </div>
