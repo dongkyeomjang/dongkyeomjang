@@ -11,7 +11,7 @@ GDSC SolutionChanllenge 참여(2023.12.01 ~ 2023.02.26)<br>
 카카오클라우드 스쿨 4기 교육생(수료) (2023.12.06 ~ 2024.06.11)<br>
 GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
 구름톤 유니브 2기(수료) (2024.02.06 ~ 2024.08)<br>
-구름톤 유니브 벚꽃톤 참여 (2024.03.23 ~ 2024.03.24)><br>
+구름톤 유니브 벚꽃톤 참여 (2024.03.23 ~ 2024.03.24)<br>
 동국대학교 캡스톤디자인 밸류업 참여 (2024.06.27 ~)
 
 ## 🛠️ Tech
@@ -52,15 +52,15 @@ GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
       <td colspan="2" align="center"><b style="font-size: 1.2em;">참가확인서</b></td>
     </tr>
     <tr>
-      <td align="center"><b sytle="font-size:1.2em;">벚꽃톤<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/2a67f295-762a-4a89-8cfa-e4f8b4ec312b" alt="참가확인서 1" width="500"></td>
-      <td align="center"><b sytle="font-size:1.2em;">GDSC Solution Challenge 2024<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/93d31bb9-47a5-471c-b40c-06208dec7754" alt="참가확인서 2" width="500"></td>
+      <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/2a67f295-762a-4a89-8cfa-e4f8b4ec312b" alt="참가확인서 1" width="500"></td>
+      <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/93d31bb9-47a5-471c-b40c-06208dec7754" alt="참가확인서 2" width="500"></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><b style="font-size: 1.2em;">수료증</b></td>
     </tr>
     <tr>
-      <td align="center"><b sytle="font-size:1.2em;">구름톤 유니브2기<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/35a44701-f94b-4b97-91bb-fe433c677687" alt="구름톤 유니브 2기 수료증" width="500"></td>
-      <td align="center"><b sytle="font-size:1.2em;">카카오클라우드스쿨 4기<img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/bbbdad6d-970d-4c9a-bd69-79ad910d7ce7" alt="카카오클라우드 스쿨 4기 수료증" width="500" height="500"></td>
+      <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/35a44701-f94b-4b97-91bb-fe433c677687" alt="구름톤 유니브 2기 수료증" width="500"></td>
+      <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/bbbdad6d-970d-4c9a-bd69-79ad910d7ce7" alt="카카오클라우드 스쿨 4기 수료증" width="230"></td>
     </tr>
   </table>
 </div>
