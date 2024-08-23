@@ -64,7 +64,6 @@ JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)
       <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/35a44701-f94b-4b97-91bb-fe433c677687" alt="구름톤 유니브 2기 수료증" width="500"></td>
       <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/bbbdad6d-970d-4c9a-bd69-79ad910d7ce7" alt="카카오클라우드 스쿨 4기 수료증" width="300"></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/d384d1ec-244d-40bd-bce6-c7d317ad238d" alt="GDSC 1기 수료증" width="500"></td>
-
     </tr>
   </table>
 </div>
