@@ -14,7 +14,8 @@ GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
 구름톤 유니브 벚꽃톤 참여 (2024.03.23 ~ 2024.03.24)<br>
 동국대학교 캡스톤디자인 밸류업 참여 (2024.06.27 ~ 2024.08.30)<br>
 JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)<br>
-2024 공개소프트웨어 개발자대회 참여 (2024.07.04 ~ )
+2024 공개소프트웨어 개발자대회 참여 (2024.07.04 ~ )<br>
+9oormthonUniv 연합해커톤 참여 (2024.09.28 ~ 2024.09.29)  
 
 ## 🛠️ Tech
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -44,7 +45,8 @@ JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)<br>
 
 ## 🏆 Award
 <div align="center">
-2024.01.13 GDSC 눈꽃톤 대상
+2024.01.13 GDSC 눈꽃톤 대상<br>
+2024.09.29 9oormhtonUniv 연합해커톤 최우수상
 
 ## 📄 Certificates
 
