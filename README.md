@@ -47,7 +47,8 @@ JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)<br>
 ## 🏆 Award
 <div align="center">
 2024.01.13 GDSC 눈꽃톤 대상<br>
-2024.09.29 9oormhtonUniv 연합해커톤 최우수상
+2024.09.29 9oormhtonUniv 연합해커톤 최우수상<br>
+2024.11.13 공개SW개발자대회 우수작
 
 ## 📄 Certificates
 
