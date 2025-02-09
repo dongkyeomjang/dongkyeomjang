@@ -5,19 +5,14 @@
 <h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I sharpen my skills every day
 
 ## 🖊️ history
-동국대학교 컴퓨터공학과 재학중(2020.03.02 ~ )<br>
-GDSC DGU Server/Cloud General 멤버(수료) (2023.09.15 ~ 2024.08.23)<br>
-GDSC SolutionChanllenge 참여 (2023.12.01 ~ 2023.02.26)<br>
-카카오클라우드 스쿨 4기 교육생(수료) (2023.12.06 ~ 2024.06.11)<br>
-GDSC 눈꽃톤 참여 (2024.01.12 ~ 2024.01.13)<br>
-구름톤 유니브 2기(수료) (2024.02.06 ~ 2024.08)<br>
-구름톤 유니브 벚꽃톤 참여 (2024.03.23 ~ 2024.03.24)<br>
-동국대학교 캡스톤디자인 밸류업 참여 (2024.06.27 ~ 2024.08.30)<br>
-구름톤 유니브 3기 (2024.07.22 ~ )<br>
-JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)<br>
-2024 공개소프트웨어 개발자대회 참여 (2024.07.04 ~ 2024.11.13)<br>
-9oormthonUniv 연합해커톤 참여 (2024.09.28 ~ 2024.09.29)<br>
-구름톤 유니브 단풍톤 참여 (2024.11.23 ~ 2024.11.24)
+동국대학교 컴퓨터공학과 학부 졸업(2020.03.02 ~ 2025.02.13)<br>
+GDSC(GDGoC) DGU Server/Cloud General 멤버(수료) (2023.09.15 ~ 2024.08.23)<br>
+카카오클라우드 스쿨(카카오테크) 4기 교육생(수료) (2023.12.06 ~ 2024.06.11)<br>
+구름톤 유니브 2기(수료) (2024.02.06 ~ 2024.07.21)<br>
+구름톤 유니브 3기(수료) (2024.07.22 ~ 2025.01.19)<br>
+JUNCTION ASIA 2024 (2024.08.09 ~ 2024.08.11)<br>
+2024 공개소프트웨어 개발자대회 (2024.07.04 ~ 2024.11.13)<br>
+동국대학교 컴퓨터AI학과 컴퓨터공학전공 석사과정 - Computer Security & Distributed Computing Lab (2025.03 ~ )
 
 ## 🛠️ Tech
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -57,20 +52,21 @@ JUNCTION ASIA 2024 해커톤 참여 (2024.08.09 ~ 2024.08.11)<br>
 <div align="center">
   <table>
     <tr>
-      <td colspan="3" align="center"><b style="font-size: 1.2em;">참가확인서</b></td>
+      <td colspan="4" align="center"><b style="font-size: 1.2em;">수상/참가확인서</b></td>
     </tr>
     <tr>
       <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/2a67f295-762a-4a89-8cfa-e4f8b4ec312b" alt="참가확인서 1" width="500"></td>
       <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/93d31bb9-47a5-471c-b40c-06208dec7754" alt="참가확인서 2" width="500"></td>
       <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/user-attachments/assets/046f0eb3-39a9-4b86-b7be-0fce485a517b" alt="참가확인서 3" width="500"></td>
-    </tr>
+      <td align="center"><b sytle="font-size:1.2em;"><img src="https://github.com/user-attachments/assets/2dddef89-7e05-4368-baa1-273af287ae6c" alt="단풍톤 우수상" width="500"></td>
     <tr>
-      <td colspan="3" align="center"><b style="font-size: 1.2em;">수료증</b></td>
+      <td colspan="4" align="center"><b style="font-size: 1.2em;">수료증</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/35a44701-f94b-4b97-91bb-fe433c677687" alt="구름톤 유니브 2기 수료증" width="500"></td>
       <td align="center"><img src="https://github.com/dongkyeomjang/dongkyeomjang/assets/86873281/bbbdad6d-970d-4c9a-bd69-79ad910d7ce7" alt="카카오클라우드 스쿨 4기 수료증" width="300"></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/d384d1ec-244d-40bd-bce6-c7d317ad238d" alt="GDSC 1기 수료증" width="500"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/57a7b123-6a4c-4f26-9a98-80c69b58b667" alt="구름톤유니브 3기 수료증" width="500"></td>
     </tr>
   </table>
 </div>
