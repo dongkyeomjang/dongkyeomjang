@@ -72,5 +72,7 @@ JUNCTION ASIA 2024 (2024.08.09 ~ 2024.08.11)<br>
 </div>
 
 
-
+## 🏡 Workplace
+[(주)큐클릭](https://www.qclick.com/) | Backend Developer | 기능 개발 및 유지보수 외주 | 2024.12.05 ~ 2025.01.31<br>
+[(주)구름](https://www.goorm.io/) | Backend Developer | [9oormthon-univ](https://9oormthon.university/) 웹 사이트 개발 | 2025.02.03 ~ CURRENT 
 
