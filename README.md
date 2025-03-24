@@ -75,5 +75,5 @@ JUNCTION ASIA 2024 (2024.08.09 ~ 2024.08.11)<br>
 ## 🏡 Workplace
 [(주)큐클릭](https://www.qclick.com/) | Backend Developer | 기능 개발 및 유지보수 외주 | 2024.12.05 ~ 2025.01.31<br>
 [(주)구름](https://www.goorm.io/) | Backend Developer | [9oormthon-univ](https://9oormthon.university/) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2025.02.03 ~ CURRENT<br>
-[INGLO](https://) | Backend Developer | [Giggle(andriod)](https://play.google.com/store/apps/details?id=com.teaminglo236.Giggle&hl=ko) / [Giggle(ios)](https://apps.apple.com/kr/app/giggle/id6738636373) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.06 ~ CURRENT<br>
+[INGLO]([https://](https://inglo-landing.vercel.app/)) | Backend Developer | [Giggle(andriod)](https://play.google.com/store/apps/details?id=com.teaminglo236.Giggle&hl=ko) / [Giggle(ios)](https://apps.apple.com/kr/app/giggle/id6738636373) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.06 ~ CURRENT<br>
 [툭스캔](https://www.tookscan.com/) | Backend Developer | [툭스캔](https://www.tookscan.com) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.11 ~ CURRENT
