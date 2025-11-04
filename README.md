@@ -4,6 +4,13 @@
 <div align="center">
 <h1 style="text-align:center"> Hi I'm dongkyeomjang 😆</h1> I sharpen my skills every day
 
+## 🏡 Workplace
+[(주)큐클릭](https://www.qclick.com/) | Backend Developer | 기능 개발 및 유지보수 외주 | 2024.12.05 ~ 2025.01.31<br>
+[(주)구름](https://www.goorm.io/) | Backend Developer | [9oormthon-univ](https://9oormthon.university/) 웹 애플리케이션 서버 개발 및 인프라 관리/유지보수 | 2025.02.03 ~ 2025.03<br>
+[INGLO](https://teaminglo.framer.website/) | Backend Developer | [Giggle(andriod)](https://play.google.com/store/apps/details?id=com.teaminglo236.Giggle&hl=ko) / [Giggle(ios)](https://apps.apple.com/kr/app/giggle/id6738636373) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.06 ~ 2025.07<br>
+[툭스캔](https://www.tookscan.com/) | Backend Developer | [툭스캔](https://www.tookscan.com) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.11 ~ 2025.09<br>
+[(주)발켄모빌리티](https://www.balkenm.com/) | Backend Developer | 2025.08.01 ~ CURRENT
+
 ## 🖊️ history
 동국대학교 컴퓨터공학과 학부 졸업(2020.03.02 ~ 2025.02.13)<br>
 GDSC(GDGoC) DGU Server/Cloud General 멤버(수료) (2023.09.15 ~ 2024.08.23)<br>
@@ -69,11 +76,3 @@ JUNCTION ASIA 2024 (2024.08.09 ~ 2024.08.11)<br>
     </tr>
   </table>
 </div>
-
-
-## 🏡 Workplace
-[(주)큐클릭](https://www.qclick.com/) | Backend Developer | 기능 개발 및 유지보수 외주 | 2024.12.05 ~ 2025.01.31<br>
-[(주)구름](https://www.goorm.io/) | Backend Developer | [9oormthon-univ](https://9oormthon.university/) 웹 애플리케이션 서버 개발 및 인프라 관리/유지보수 | 2025.02.03 ~ 2025.03<br>
-[INGLO](https://teaminglo.framer.website/) | Backend Developer | [Giggle(andriod)](https://play.google.com/store/apps/details?id=com.teaminglo236.Giggle&hl=ko) / [Giggle(ios)](https://apps.apple.com/kr/app/giggle/id6738636373) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.06 ~ 2025.07<br>
-[툭스캔](https://www.tookscan.com/) | Backend Developer | [툭스캔](https://www.tookscan.com) 웹 애플리케이션 서버 개발 및 인프라 관리 | 2024.11 ~ 2025.09<br>
-[(주)발켄모빌리티](https://www.balkenm.com/) | Backend Developer | 2025.08.01 ~ CURRENT
