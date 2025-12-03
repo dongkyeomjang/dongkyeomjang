@@ -42,7 +42,7 @@ JUNCTION ASIA 2024 (2024.08.09 ~ 2024.08.11)<br>
 
 ##
 ![Dongkyeomjang's GitHub stats](https://github-stat-dongkyeoms-projects.vercel.app/api?username=dongkyeomjang&show_icons=true&theme=dracula&cache_seconds=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkyeomjang&layout=compact&theme=dracula)
+![Top Langs](https://github-stat-dongkyeoms-projects.vercel.app/api/top-langs/?username=dongkyeomjang&layout=compact&theme=dracula&cache_seconds=0)
 
 
 ## 🏆 Award
